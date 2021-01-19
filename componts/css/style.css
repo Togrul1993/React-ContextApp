@@ -1,0 +1,33 @@
+.card{
+	height: 500px;
+}
+
+.card-header{
+	height: 250px;
+}
+
+
+.card-header img{
+	height: 250px;
+}
+
+
+.card-body{
+	height: 100px;
+}
+
+.card-body h2{
+	font-size: 18px;
+}
+
+.card-body h4{
+	font-size: 14px;
+	margin-bottom: 25px;
+}
+
+
+.card-body p{
+	height: 150px;
+	overflow: hidden;
+	font-size: 13px;
+}
